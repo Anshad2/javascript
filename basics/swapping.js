@@ -17,3 +17,16 @@ for (let i1;i<=3;i++){
     array.unshift(array.pop())
 }
 console.log(array)
+
+
+
+// 
+// swaping
+// 
+var num1 = 10
+var num2 =20
+console.log("b4 swapping",num1,num2);
+
+[num1,num2] = [num2,num1]
+
+console.log("after swaping",num2,num1);

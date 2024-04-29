@@ -1,4 +1,4 @@
-// convert object in to nested array
+// convert object into nested array
 // object.entries
 var fruits={
     "apple":265,

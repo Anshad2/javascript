@@ -4,6 +4,7 @@ var vowels = ['a','e','i','o','u']
 var newarray=[]
 for (let i of text){
     if (vowels.includes(i)){
+    
         newarray.push(i)
     }
     
